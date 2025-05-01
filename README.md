@@ -3,22 +3,16 @@
 Exploratory Data Analysis (EDA) project based on a dataset of games available on the Steam platform. This project is part of my data analyst portfolio and was developed using Python and Jupyter Notebook.
 
 ## 📁 Project Structure
-
+```
 eda-steam/
-
 ├── data/
-
 │   ├── steam_raw.csv           # Original dataset
-
 │   └── steam_cleaned.csv       # Cleaned dataset
-
 ├── notebooks/
-
 │   └── steam_eda.ipynb         # Jupyter Notebook with the analysis
-
 ├── archive/
-
 │   └── steam_data.zip          # Original compressed file (optional)
+```
 
 ## 🛠️ Technologies Used
 
