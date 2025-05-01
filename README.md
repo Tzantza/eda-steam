@@ -5,12 +5,19 @@ Exploratory Data Analysis (EDA) project based on a dataset of games available on
 ## 📁 Project Structure
 
 eda-steam/
+
 ├── data/
+
 │   ├── steam_raw.csv           # Original dataset
+
 │   └── steam_cleaned.csv       # Cleaned dataset
+
 ├── notebooks/
+
 │   └── steam_eda.ipynb         # Jupyter Notebook with the analysis
+
 ├── archive/
+
 │   └── steam_data.zip          # Original compressed file (optional)
 
 ## 🛠️ Technologies Used
