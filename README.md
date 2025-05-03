@@ -13,6 +13,10 @@ eda-steam/
 ├── archive/
 │   └── steam_data.zip          # Original compressed file (optional)
 ```
+### 📚 Notebooks Available
+
+- [🇬🇧 English Version](notebooks/steam_eda_ENG.ipynb)
+- [🇪🇸 Versión en Español](notebooks/steam_eda_ESP.ipynb)
 
 ## 🛠️ Technologies Used
 
@@ -58,7 +62,7 @@ This EDA addresses the following questions:
 
 ## 📌 Notes
 
-- All data used is public and comes from a third-party dataset compiled from Steam from 1997 until 2019.
+- All data used is public and comes from a third-party dataset compiled from Steam, covering the period from 1997 to 2019.
 - This is a solo project developed for learning and portfolio purposes.
 
 ## 👤 Author
