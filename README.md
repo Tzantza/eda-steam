@@ -1,6 +1,6 @@
 # 🎮 Steam Games EDA
 
-Exploratory Data Analysis (EDA) project based on a dataset of games available on the Steam platform. This project is part of my data analyst portfolio and was developed using Python and Jupyter Notebook.
+Exploratory Data Analysis (EDA) project based on a dataset of games available on the Steam platform. This project is part of my data analyst portfolio and was developed using Python and Jupyter Notebook. 
 
 ## 📁 Project Structure
 ```
@@ -25,6 +25,7 @@ eda-steam/
 - Pandas
 - Matplotlib
 - Seaborn
+- Looker Studio
 
 ## 🧹 Data Cleaning Process
 
@@ -59,6 +60,12 @@ This EDA addresses the following questions:
 - ⏱️ Players spend an average of **900 hours/month** on **Action** genre, showing strong long-term engagement.
 - 💸 **Free-to-Play games** receive a high average of **83% positive reviews**, suggesting strong player satisfaction.
 - 🏅 The **number of achievements per game** increased significantly in **2016**, reflecting a shift in game design towards player engagement.
+
+
+### 📊 View the Dashboard in Looker Studio
+
+Explore the interactive dashboard built using Looker Studio, where you can visualize the insights from the Steam Games EDA. You can analyze key metrics such as the top games by sales, average review scores, genre trends, and more.
+-	Access the Dashboard: [Steam Games Dashboard in Looker Studio](https://lookerstudio.google.com/reporting/eb6de786-8f58-49d0-8f2d-9ad382f9958f)
 
 ## 📌 Notes
 
